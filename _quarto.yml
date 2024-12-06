@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "GRUPO B"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - intro.qmd
+      - Biomass.qmd
+      - Tuber.qmd
+      - multi.qmd
+      - conclu.qmd
+    tools:
+      - icon: twitter
+        href: https://twitter.com/
+      - icon: github
+        href: https://github.com/Gomezt13/website-template.git
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)"
+    left: "&copy; Copyright 2024, Programación y Análisis de Datos"
+
+format:
+  html:
+    theme: cerulean
+    toc: true
+
+editor: source
+

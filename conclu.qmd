@@ -1,0 +1,8 @@
+---
+title: "Conclusines"
+---
+
+1. De las variables estudiadas, el índice de cosecha es fácil de ser calculada y muestra una correlación alta con la eficiencia de uso de agua en tubérculos, por lo que podría ser utilizado como criterio de selección para genotipos que presenten tolerancia a la sequía. La metodología del lisímetro para calcular eficiencia de uso de agua es un método muy preciso para experimentos fisiológicos sin embargo es costoso, poco práctico y dificulta su uso en campo.
+
+2. Los genotipos, CIP398190.89 , CIP397077.16 , CIP392797.22 , CIP398208.620 mostraron una mayor eficiencia en el uso de agua bajo condiciones de sequía sin que
+esto produzca una reducción drástica en el rendimiento. 

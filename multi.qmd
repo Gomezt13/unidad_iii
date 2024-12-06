@@ -1,0 +1,75 @@
+---
+title: " Analisis multivariado"
+---
+
+## Importación de datos
+```{r}
+source('https://inkaverse.com/setup.r')
+
+library(inti)
+library(googlesheets4)
+library(ggplot2)
+
+url <- "https://docs.google.com/spreadsheets/d/15r7ZwcZZHbEgltlF6gSFvCTFA-CFzVBWwg3mFlRyKPs/edit?gid=172957346#gid=172957346"
+
+gs <- as_sheets_id(url)
+
+fb <- googlesheets4::range_read(ss = gs, sheet = "fb")
+
+str(fb)
+
+```
+## Correlación
+```{r}
+# Selecciona solo las columnas numéricas para evitar errores
+numeric_data <- fb[, sapply(fb, is.numeric)]
+cor_matrix <- cor(numeric_data)
+
+# Ver la matriz de correlación
+print(cor_matrix)
+
+
+```
+## Visualización de la matriz de correlación
+
+```{r}
+fb %>% 
+  select_if(is.numeric) %>% 
+  dplyr::select(!c("block")) %>% 
+  pairs.panels(x = .
+               , hist.col = "red"
+               , pch = 21
+               , stars = TRUE
+               , scale = TRUE
+               ,lm = TRUE
+               )
+```
+La matriz de correlación mostró una fuerte relación positiva entre variables fisiológicas como SPAD y CRA e indicadores de rendimiento como IC y biomasa, lo que significa que los genotipos que retienen clorofila y agua tienden a funcionar mejor en condiciones de estrés hídrico. Además, los genotipos con mejor capacidad de ajuste osmótico (bajo PO) y menor transpiración (pero con suficiente área foliar) mostraron un mejor índice de reducción de la tolerancia al agua (TRA), lo que es un buen indicador del índice de adaptabilidad al estrés hídrico.
+
+## Análisis de Componentes Principales (PCA)
+
+```{r}
+# Cargar librerías necesarias
+library(dplyr)
+library(FactoMineR)
+
+mv <- fb %>% 
+  group_by(riego, geno) %>% 
+  summarise(across(where(is.numeric), ~ mean(., na.rm = TRUE))) %>% 
+  PCA(scale.unit = T, quali.sup = c(1:4), graph = F)
+
+p1 <- plot (mv
+     , choix="ind"
+     , habillage=1)
+p2 <- plot (mv
+     , choix="var")
+p1
+
+
+```
+```{r}
+p2
+```
+
+Ambas graficas 	tiene como ejes principales (Dim 1 y Dim 2): Donde Dim 1 (43.24%) y Dim 2 (31.47%) van a representar el 74.71% de la varianza total en los datos. Los puntos representan los genotipos evaluados, con colores diferentes según el tratamiento de riego (negro para irrigado y rojo para sequía). Y en donde claramente el "G06", está más alejados del centro y se asocian de manera más fuerte a los comportamientos específicos bajo condiciones de sequía.
+En el gráfico de vectores podemos observar la dirección e intensidad del vector que indican su contribución. Podemos apreciar que variables como biomdw, tubdw y rwc_84 apuntan en la misma dirección, sugiriendo que están positivamente correlacionadas y contribuyen significativamente a Dim 1. Variables como spad_83 y wue tienen vectores perpendiculares a lfa y trans, lo que indica que estas variables están poco correlacionadas entre sí. 

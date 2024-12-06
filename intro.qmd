@@ -1,0 +1,12 @@
+---
+title: "Introducción"
+---
+
+La papa es el tercer cultivo de mayor área sembrada en el mundo, y el Perú es uno de los mayores productor de papa en Latinoamérica. La papa representa el sustento de más de 600 mil pequeños productores de 19 regiones de nuestro país, debido a eso la importancia de su estudio bajo distintas condiciones medio ambientales.
+
+Actualmente debido al cambio climático se ha producido una tendencia al uso de menos recursos para producir la misma cantidad de alimentos para una población cada vez mayor y que sigue en aumento. Los estudios de uso eficiente del agua son de suma importancia, debido a que dicho recurso comienza a ser cada vez más escaso, así mismo se presenta un aumento de temperatura en los distintos ecosistemas, por lo que se necesitan plantas que sean tolerantes y/o resistentes al calor y la sequía con rendimientos aceptables. Además, la papa es susceptible
+al estrés por sequía, lo que conlleva a la merma en los rendimientos y calidad del tubérculo.
+
+Por ello, el presente trabajo tiene como objetivo evaluar distintos parámetros fisiológicos y morfológicos para relacionarlo con la eficiencia de uso de agua y el rendimiento del cultivo e identiftcar y seleccionar los genotipos de papa que presenten tolerancia al estrés hídrico por sequía con rendimientos aceptables.
+
+Para evaluar la eficiencia de uso de agua en los 15 genotipos de estudio, se utilizó la metodología dellisímetro, que permite calcular la transpiración o consumo de agua neta de las plantas. Durante el desarrollo del experimento se realizaron evaluaciones morfológicas y fisiológicas para observar los mecanismos que utiliza la planta para tolerar el estrés por sequía. Los datos extraídos se correlacionaron con el rendimiento para determinar cuales de las variables presentan mayor respuesta a la sequía. 
