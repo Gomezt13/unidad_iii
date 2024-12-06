@@ -3,15 +3,13 @@ project:
   output-dir: docs
   
 website:
-  title: "GRUPO B"
+  title: "GRUPO C"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - intro.qmd
-      - Biomass.qmd
-      - Tuber.qmd
-      - multi.qmd
+      - href: intro.qmd
+        text: Informe
       - conclu.qmd
     tools:
       - icon: twitter

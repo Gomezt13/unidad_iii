@@ -1,22 +1,26 @@
 ---
-title: "EFICIENCIA DE USO DE AGUA EN QUINCE GENOTIPOS DE PAPA (Solanum tuberosum L.) BAJO CONDICIONES DE ESTRÉS HÍDRICO POR SEQUÍA"
+title: "EI Poder de la Inteligencia Artificial en la Agronomía para Simplificar la Vida"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: https://www.fundacionbankinter.org/wp-content/uploads/2024/04/AdobeStock_630926267-scaled.jpeg
+
 ---
 
 :::{#me}
 ### Integrantes:
 
-1. Gomez Torres Euler
-2. Gandez Castro Brayan Eliseo
-3. Huanambal Galvez Jose Luis
+1. Arista Fernandez Héctor Stalin
+2. Gomez Torres Euler
+3. Julca Celiz Nilson Yoel
 4. Parejas Gonsalez Jhodany
 
 ## Resumen
 
-La papa (Solanum tuberosum L.) es un cultivo sensible a la sequía debido a que posee un sistema radicular poco profundo y requiere disponibilidad constante de agua en el suelo para asegurar su máximo rendimiento y calidad en el tubérculo. La eficiencia de uso de agua (EUA) se define como la producción por unidad de agua consumida, esta variable es considerada importante para determinar el rendimiento bajo condiciones limitadas de agua. Si logramos entender la relación entre EUA y el rendimiento bajo condiciones de estrés puede ayudarnos a encontrar estrategias que nos ayuden a minimizar la perdida de rendimiento debido a la disponibilidad de agua y asegurar una alta producción. Se llevó acabo un experimento en invernadero con condiciones controladas , para caracterizar la respuesta y entender la relación entre la EUA, el rendimiento y la tolerancia en 15 genotipos de papa de la población avanzada de mejoramiento del Centro Internacional de la Papa (CIP). El experimento fue llevado acabo baja el diseño experimental de parcelas divididas teniendo como factor principal dos tipos de riego, sequía regulada y riego normal y como factor secundario los quince genotipos. A través del experimento se evaluaron variables morfológicas y fisiológicas tales como contenido relativo de clorofila (SPAD), contenido relativo de agua (CRA), Potencial Osmótico (PO), Área foliar (AF), transpiración y parámetros de rendimiento tales como el peso de la biomasa, Índice de Cosecha (IC) e Índice de tolerancia a la reducción de agua (TRA). Los resultados de la investigación muestran diferencias significativas entre tratamientos, y en general las plantas sometidas a limitaciones de agua muestran un rendimiento menor, existiendo una reducción en la biomasa y el área foliar. Existe una correlación alta entra la EUA y el IC (r = 0.98), indicando que este último puede ser una herramienta útil para la selección prematura de genotipos con buen rendimiento y tolerante al estrés por sequía. Los genotipos, CIP398190.89, CIP397077.16, CIP392797.22, CIP398208.620 mostraron una mayor eficiencia en el uso de agua bajo condiciones de sequía sin que esto produzca una reducción drástica en su rendimiento.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Curabitur ac orci eget lectus varius vehicula. Nullam ac nisi id arcu feugiat suscipit. Proin bibendum, lorem at aliquam luctus, neque orci viverra sapien, eu tempor nunc nisi at eros.  
+
+
 
 
 :::
