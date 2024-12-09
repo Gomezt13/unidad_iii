@@ -39,11 +39,13 @@ Como usar Python
  
 ## Ventajas y Limitaciones de la IA
 
-| Producto   | Precio  | Cantidad |
+| Aspecto   | Ventajas  | Limitaciones |
 |------------|---------|----------|
-| Manzanas   | $2.00   | 10       |
-| Plátanos   | $1.50   | 8        |
-| Naranjas   | $3.00   | 12       |
+| Automatización de tareas   | Asume tareas repetitivas, liberando tiempo para actividades más estratégicas.   | Puede generar dependencia excesiva en sistemas automatizados.       |
+| Precisión y reducción de errores   | Alta precisión en tareas como diagnósticos médicos o cálculos complejos.   | Resultados inexactos si los datos de entrenamiento son deficientes o sesgados.        |
+| Procesamiento de datos   | Analiza grandes volúmenes de datos rápidamente, detectando patrones y tendencias.   | Necesita datos de alta calidad; datos insuficientes afectan la eficacia.       |
+| Disponibilidad continua       | Opera las 24 horas del día sin interrupciones.       | Puede requerir altos costos de energía y mantenimiento continuo.       |
+
 
 
 ## Conclusiones
