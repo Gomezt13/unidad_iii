@@ -41,6 +41,8 @@ COMO INSTALAR ANACONDA
 
 8. Para comprobar que anaconda se haya descargado correctamente, buscamos en el navegador de Windows “Anaconda” 
 
+![Texto alternativo](img/ana-8.png)
+
 9. Finalmente, anaconda te muestra el inicio del programa con diversas aplicaciones instaladas 
 
 ![Texto alternativo](img/nav-tabs1.png)
