@@ -361,7 +361,7 @@
     "href": "Py.html",
     "title": "Uso de Python",
     "section": "",
-    "text": "Como usar Python 1. Descargar Python de acuerdo al sistema operativo que se necesita\n\nLuego lo damos como “Ejecutar como administrador”\nLuego buscamos en Google de Windows el programa anaconda ya instalado\nLuego en la ventana principal de anaconda, damos clic en SPIDER\nLuego volvemos a seleccionar “Anaconda Prompt”\nLuego escribimos el comando “pip install- geopandas” la cual nos genera una librería que es muy importante para todos los análisis que vamos hacer y llevar a cabo en el entorno de Python\nLuego verificamos que se haya creado el acceso a el entorno de SPIDER que pertenece a Python\nLuego buscamos la librería y nos muestre la instalación correcta\nLuego instalamos las librerías en Anaconda\nLuego vamos a Anaconda prompt , la cual lo tenemos en caso no tengamos una ruta de ambiente la distribución de Python , luego ejecutamos el comando “Pip” lo cual sirve para instalar y desinstalar paquetes\nFinalmente instalamos todos los paquetes que deseamos trabajar ejemplo “ numpy”"
+    "text": "Como usar Python\n\nDescargar Python de acuerdo al sistema operativo que se necesita\n\n\n\n\nTexto alternativo\n\n\n\nLuego lo damos como “Ejecutar como administrador”\n\n\n\n\nTexto alternativo\n\n\n\nLuego buscamos en Google de Windows el programa anaconda ya instalado\n\n\n\n\nTexto alternativo\n\n\n\n\n\n\n\n\nTexto alternativo\n\n\n\nLuego en la ventana principal de anaconda, damos clic en SPIDER\n\n\n\n\nTexto alternativo"
   },
   {
     "objectID": "LS.html",
