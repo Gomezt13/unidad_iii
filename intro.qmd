@@ -39,6 +39,15 @@ Como usar Python
  
 ## Ventajas y Limitaciones de la IA
 
+| Producto   | Precio  | Cantidad |
+|------------|---------|----------|
+| Manzanas   | $2.00   | 10       |
+| Plátanos   | $1.50   | 8        |
+| Naranjas   | $3.00   | 12       |
+
+
 ## Conclusiones
+
+Soluciones innovadoras para mejorar la eficiencia, la productividad y la sostenibilidad. Tecnologías como los sistemas de predicción climática, la agricultura de precisión y el análisis de imágenes satelitales permiten optimizar el uso de recursos como agua, fertilizantes y energía. Estas herramientas ayudan a los agricultores a tomar decisiones más informadas ya enfrentar los desafíos del cambio climático y la creciente demanda de alimentos. Sin embargo, la implementación de la IA en la agricultura no está exenta de desafíos. Entre las principales limitaciones se encuentran la falta de acceso a tecnología en áreas rurales, la dependencia de datos de alta calidad y los costos iniciales asociados con la adopción de estas tecnologías. Además, el manejo ético de los datos recopilados, como información sobre cultivos y terrenos, requiere una regulación adecuada para evitar el mal uso y garantizar la privacidad de los productores. A pesar de estos retos, la IA ofrece un enorme potencial para lograr un equilibrio entre productividad y sostenibilidad en el sector agrícola. Herramientas como los drones para monitoreo de cultivos, los algoritmos de aprendizaje automático para predecir plagas y los sistemas automatizados de riego están permitiendo un uso más eficiente de los recursos y reduciendo el impacto ambiental de las actividades agrícolas. Esto es especialmente relevante en un contexto donde la seguridad alimentaria es un desafío global. En el futuro, el éxito de la integración de la IA en la agricultura dependerá de la colaboración entre agricultores, instituciones gubernamentales y desarrolladores de tecnología. Invertir en la capacitación de los agricultores y garantizar el acceso equitativo a estas herramientas será clave para maximizar los beneficios de la IA, fomentando una agricultura más resiliente, inclusiva y sostenible.
 
 ## Referencias Bibliográficas,
