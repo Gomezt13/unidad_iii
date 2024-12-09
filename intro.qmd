@@ -45,8 +45,13 @@ Como usar Python
 | Precisión y reducción de errores   | Alta precisión en tareas como diagnósticos médicos o cálculos complejos.   | Resultados inexactos si los datos de entrenamiento son deficientes o sesgados.        |
 | Procesamiento de datos   | Analiza grandes volúmenes de datos rápidamente, detectando patrones y tendencias.   | Necesita datos de alta calidad; datos insuficientes afectan la eficacia.       |
 | Disponibilidad continua       | Opera las 24 horas del día sin interrupciones.       | Puede requerir altos costos de energía y mantenimiento continuo.       |
-
-
+| Personalización       | Mejora la experiencia del usuario con recomendaciones y servicios adaptados.        | La falta de comprensión contextual puede llevar a errores en las recomendaciones.       |
+| Aplicaciones críticas       | Optimiza áreas como salud, agricultura, transporte y logística.       | Errores en aplicaciones críticas pueden tener consecuencias graves.       |
+| Costos de implementación        | N/A       | Desarrollo, recursos computacionales y equipos especializados son costosos.        |
+| Impacto en el empleo        | Aumenta la productividad y reduce tareas manuales repetitivas.       | Puede desplazar a trabajadores en ciertos sectores, generando desempleo.        |
+| Privacidad y ética        | Facilita análisis para mejorar servicios sin intervención humana directa.        | Puede comprometer la privacidad de los usuarios y ser utilizada para fines maliciosos.       |
+|Creatividad        | Genera soluciones novedosas basadas en patrones existentes.       | Carece de verdadera originalidad y juicio subjetivo.        |
+| Riesgo de mal uso       | N/A       | Potencial para la creación de deepfakes, ciberataques y manipulación de información.       |
 
 ## Conclusiones
 
