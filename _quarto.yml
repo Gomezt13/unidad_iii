@@ -16,7 +16,8 @@ website:
         text: Python
       - href: conda.qmd
         text: Anaconda
-      - multi.qmd
+      - href: LS.qmd
+        text: Label Studio
     tools:
       - icon: twitter
         href: https://twitter.com/

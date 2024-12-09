@@ -2,3 +2,28 @@
 title: "Uso de Anaconda"
 ---
 
+ANACONDA 
+Es un administrador de paquetes de Python que se utiliza mucho en aplicaciones científicas y de ciencia de datos, está diseñado para proveer un entorno de desarrollo en donde van a estar listas las dependencias típicas relacionadas en estas áreas. 
+¿Porque anaconda?
+o	Diferentes proyectos y diferentes paquetes 
+o	Diferentes versiones y diferentes proyectos 
+Anaconda, es una distribución de Python 
+
+COMO INSTALAR ANACONDA 
+1.	Descargar anaconda en Google 
+
+2.	Iniciar el proceso de instalación 
+
+3.	Luego damos clic en Windows 64 bits 
+
+4.	Descargar y guardar 
+
+5.	Luego abrir en la carpeta que hayas guardado o descargas y damos clic 
+
+6.	Luego seleccionar la opción solamente para ti (recomendado) 
+
+7.	Luego seleccionar la opción, crear accesos directos en el menú de inicio, registrar anaconda 3 como tu Python por defecto, borrar el cache de la instalación de los paquetes.
+
+8.	Para comprobar que anaconda se haya descargado correctamente, buscamos en el navegador de Windows “Anaconda” 
+
+9.	Finalmente, anaconda te muestra el inicio del programa con diversas aplicaciones instaladas 

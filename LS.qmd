@@ -1,0 +1,41 @@
+---
+title: "Uso de Label Studio"
+---
+
+Como usar label studio  
+1.	Abrir mi anaconda 
+
+2.	Luego configuramos un nivel de entorno particular en anaconda y escribiremos un comando 
+
+3.	Una vez que nuestra instalación este terminada, activaremos nuestro entorno de contacto que hemos creado y una vez que hayamos activado nuestro entorno, instalaremos Label estudio 
+
+4.	Luego usaremos pip install—Label studio, para poder realizar la instalación de esta biblioteca en particular, seleccionamos y copiamos y luego simplemente iremos a nuestro indicador de anaconda.
+
+
+5.	Luego pegaremos y ejecutamos durante unos segundos o minutos depende de la configuración del computador 
+
+6.	Luego de haberse instalado, para iniciar se escribe la palabra etiquetas y después comenzara ejecutar en tu entorno local y luego lo veras en tu navegador un enlace y luego darle clic en ese enlace
+
+7.	Luego revisamos el enlace y nos proporciona un sitio para poder registrarse o una identificación para poder iniciar sesión 
+
+8.	Luego ingresar a esta interfaz, una vez dentro, creas un proyecto 
+
+9.	Escribir su nombre o nombre del proyecto y la descripción 
+
+10.	Luego puede realizar la importación de datos o cualquier dato o cualquier cosa que desee hacer como por ejemplo imágenes, texto, audio. etc. Se puede importar en los formatos que se muestran a continuación.
+
+11.	Luego se ingresa a Labelim setup y podemos ver los tipos de plantillas disponibles, en esta configuración de etiqueta podemos ver la segmentación con polígonos, segmentación con mascara, predicción con bolas de unión, sub títulos de imágenes y mucho más. 
+
+12.	Luego etiquetamos las imágenes que deseamos, primero elegimos un formato común, luego cargamos la etiqueta, luego agregamos nuestra propia etiqueta ejemplo, (hoja y moneda) y luego podemos agregar un color por ejemplo verde y rojo, luego configuramos para poder hacer zoom y luego vamos a nuestras imágenes seleccionadas.
+
+13.	 Luego elegimos una imagen en particular y comenzamos a anotar o pintar 
+
+14.	Luego exportamos las imágenes seleccionadas o marcadas en formato “COCO” esto depende de la segmentación de objetos que estes haciendo. 
+
+15.	Finalmente verificar las imágenes etiquetadas y guardamos en una carpeta
+
+
+ 
+
+
+
