@@ -31,7 +31,7 @@ format:
   html:
     theme: cerulean
     toc: true
-  bibliography: references.bib
+  bibliography: ref.bib
   csl: apa.csl
 editor: source
 
