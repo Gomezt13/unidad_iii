@@ -1,0 +1,107 @@
+---
+title: "Uso de Python"
+---
+
+Como usar Python 
+1.	Descargar Python de acuerdo al sistema operativo que se necesita 
+
+
+
+
+
+
+
+
+
+
+
+
+2.	Luego lo damos como “Ejecutar como administrador” 
+
+
+
+
+
+
+
+
+
+
+
+3.	Luego buscamos en Google de Windows el programa anaconda ya instalado 
+
+
+
+
+
+
+
+
+
+
+
+4.	Luego en la ventana principal de anaconda, damos clic en SPIDER 
+
+
+
+
+
+
+
+5.	Luego volvemos a seleccionar “Anaconda Prompt”
+
+
+
+
+
+
+
+6.	Luego escribimos el comando “pip install- geopandas” la cual nos genera una librería que es muy importante para todos los análisis que vamos hacer y llevar a cabo en el entorno de Python 
+
+
+
+
+
+
+
+
+7.	Luego verificamos que se haya creado el acceso a el entorno de SPIDER que pertenece a Python 
+
+
+
+
+
+
+8.	Luego buscamos la librería y nos muestre la instalación correcta 
+
+
+
+
+
+
+9.	Luego instalamos las librerías en Anaconda 
+
+
+
+
+
+
+
+10.	Luego vamos a Anaconda prompt , la cual lo tenemos en caso no tengamos una ruta de ambiente la distribución de Python , luego ejecutamos el comando “Pip” lo cual sirve para instalar y desinstalar paquetes 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11.	Finalmente instalamos todos los paquetes que deseamos trabajar  ejemplo “ numpy” 

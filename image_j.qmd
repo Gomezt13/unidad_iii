@@ -1,0 +1,62 @@
+---
+title: "Uso de Image J"
+---
+
+Pasos para calcular el área foliar en imagen J 
+
+
+1.	Descargar el programa de la página oficial de los desarrolladores 
+
+![Texto alternativo](img/Imagen1.png)
+
+2.	Escanear nuestras hojas e incluir las referencias 
+
+![Texto alternativo](img/H022 - copia.jpg)
+
+3.	Abrir el programa del escritorio 
+
+![Texto alternativo](img/Imagen1-3.png)
+
+4.	Abrir donde dice File (archivo) y lo damos abrir (open) 
+
+![Texto alternativo](img/Imagen-4.png)
+
+
+5.	Buscar la imagen donde lo tengamos guardada, la cual debe estar en formato Jpeg 
+
+![Texto alternativo](img/Imagen5.png)
+
+6.	Abrimos la imagen y definimos nuestra escala o referencia 
+
+![Texto alternativo](img/Imagen6.png)
+
+7.	Luego le damos clic en analizar y definir escala 
+
+![Texto alternativo](img/Imagen7.png)
+
+8.	Luego definimos la escala y la longitud 
+
+![Texto alternativo](img/Imagen10.png)
+
+9.	 Luego ajustamos los parámetros de imagen, los damos clic en “imagen” luego “type “y “bit”
+![Texto alternativo](img/Imagen11.png)
+
+10.	Luego damos ajustar en ajustar y “Threshold”
+
+![Texto alternativo](img/Imagen12.png)
+
+11.	Luego las imágenes presentan con un color especifico y un fondo blanco, como se puede observar en la foto referencial. 
+
+![Texto alternativo](img/Imagen13.png)
+
+12.	Luego seleccionamos analizar, Tools y ROT manager 
+
+![Texto alternativo](img/Imagen14.png)
+
+13.	Luego damos clic en la las hojas a seleccionar y también damos clic en la pestaña agregar 
+
+![Texto alternativo](img/Imagen16.png)
+
+15.	Luego pegamos los datos en un archivo de Exel 
+
+![Texto alternativo](img/Imagen17.png)

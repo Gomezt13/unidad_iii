@@ -32,20 +32,11 @@ extensiones del programa y explicar la interfaz de R. Héctor
 
 Incluir artículos de investigación
 
-## ¿Cómo se usan estos programas?
-
-### Imagej
-
-Explicar con ejemplo, paso a p
-
-### Anaconda 
-
-(!$glsggdjg): Explicar con ejemplo, aspa
-
 ### Python
 
-úplicar con ejemplo, paogpaso„Nilson
+Como usar Python 
 
+ 
 ## Ventajas y Limitaciones de la IA
 
 ## Conclusiones
