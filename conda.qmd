@@ -10,20 +10,37 @@ o	Diferentes versiones y diferentes proyectos
 Anaconda, es una distribución de Python 
 
 COMO INSTALAR ANACONDA 
-1.	Descargar anaconda en Google 
 
-2.	Iniciar el proceso de instalación 
+1. Descargar anaconda en Google 
 
-3.	Luego damos clic en Windows 64 bits 
+![Texto alternativo](img/ana-1.png)
 
-4.	Descargar y guardar 
+2. Iniciar el proceso de instalación 
 
-5.	Luego abrir en la carpeta que hayas guardado o descargas y damos clic 
+![Texto alternativo](img/ana-2.png)
 
-6.	Luego seleccionar la opción solamente para ti (recomendado) 
+3. Luego damos clic en Windows 64 bits 
 
-7.	Luego seleccionar la opción, crear accesos directos en el menú de inicio, registrar anaconda 3 como tu Python por defecto, borrar el cache de la instalación de los paquetes.
+![Texto alternativo](img/ana-3.png)
 
-8.	Para comprobar que anaconda se haya descargado correctamente, buscamos en el navegador de Windows “Anaconda” 
+4. Descargar y guardar 
 
-9.	Finalmente, anaconda te muestra el inicio del programa con diversas aplicaciones instaladas 
+![Texto alternativo](img/ana-4.png)
+
+5. Luego abrir en la carpeta que hayas guardado o descargas y damos clic 
+
+![Texto alternativo](img/ana-5.png)
+
+6. Luego seleccionar la opción solamente para ti (recomendado) 
+
+![Texto alternativo](img/ana-6.png)
+
+7. Luego seleccionar la opción, crear accesos directos en el menú de inicio, registrar anaconda 3 como tu Python por defecto, borrar el cache de la instalación de los paquetes.
+
+![Texto alternativo](img/ana-7.png)
+
+8. Para comprobar que anaconda se haya descargado correctamente, buscamos en el navegador de Windows “Anaconda” 
+
+9. Finalmente, anaconda te muestra el inicio del programa con diversas aplicaciones instaladas 
+
+![Texto alternativo](img/nav-tabs1.png)
