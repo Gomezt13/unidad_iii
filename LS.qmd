@@ -46,3 +46,6 @@ title: "Uso de Label Studio"
 11.	Finalmente verificar las imágenes etiquetadas y revisar el archivo “result”. 
 
 ![Texto alternativo](img/ls-11.png)
+
+Ingresaremos al link para revisar los resultados:
+ https://drive.google.com/drive/folders/1glKrKO2-7a8DclYMbZN_Uq3aJtLOTuqP
