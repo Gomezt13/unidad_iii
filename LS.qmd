@@ -4,48 +4,48 @@ title: "Uso de Label Studio"
 
 1.	En el buscador, buscar y seleccionar “Anaconda PowerShell Prompt”.
 
-![Texto alternativo](img/ls-1.png)
+![](img/ls-1.png)
  
 2.	En Google Chrome, buscamos la pagina de [Label Studio](https://labelstud.io/) y seleccionamos en PIP. 
 
-![Texto alternativo](img/ls-2.png)
+![](img/ls-2.png)
 
 3.	En el terminal de Anaconda PowerShell Prompt, pegamos el código “pip install -u label-studio” y ejecutamos. 
 
-![Texto alternativo](img/ls-3.png)
+![](img/ls-3.png)
  
 4.	Una vez instalado label studio, abrimos el programa copiando el código “label-studio” en continuación.
 
-![Texto alternativo](img/ls-4.png)
+![](img/ls-4.png)
  
 5.	Una vez hecha la instalación, el enlace nos direcciona a nuestro navegador predeterminado, donde nos registraremos. 
 
-![Texto alternativo](img/ls-5.png)
+![](img/ls-5.png)
 
 6.	Luego ingresar a esta interfaz, una vez dentro, creas un proyecto. Importando los archivos en “Data import”, 
  
-![Texto alternativo](img/ls-6.png)
+![](img/ls-6.png)
 
 7.	Ingresamos a Labeling Setup y podemos ver los tipos de plantillas disponibles, seleccionamos la plantilla segmentación con polígonos y “save”.
 
 
-![Texto alternativo](img/ls-7.png)
+![](img/ls-7.png)
 
 8.	Agregamos nuestra propia etiqueta ejemplo, (hoja y moneda) y luego podemos agregar un color por ejemplo verde y rojo. Luego seleccionamos “Save” y nos enviara a Label All Tasks.  
 
-![Texto alternativo](img/ls-9.png)
+![](img/ls-9.png)
 
 9.	Seleccionamos la hoja que deseamos etiquetar y podremos ingresar a la interfaz de trabajo, sonde marcaremos la hoja, con la etiqueta Hoja y moneda con la etiqueta Moneda. En “Submit” podremos guardar las imágenes ya etiquetadas.
 
-![Texto alternativo](img/ls-8.png)
+![](img/ls-8.png)
 
 10.	Luego exportamos las imágenes etiquetadas o marcadas en formato “COCO” esto depende de la segmentación de objetos que estén haciendo. 
 
-![Texto alternativo](img/ls-10.png)
+![](img/ls-10.png)
 
 11.	Finalmente verificar las imágenes etiquetadas y revisar el archivo “result”. 
 
-![Texto alternativo](img/ls-11.png)
+![](img/ls-11.png)
 
 Ingresaremos al [link](https://drive.google.com/drive/folders/1glKrKO2-7a8DclYMbZN_Uq3aJtLOTuqP) para revisar los resultados:
 

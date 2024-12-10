@@ -2,7 +2,6 @@
 title: "Uso de Anaconda"
 ---
 
-ANACONDA 
 Es un administrador de paquetes de Python que se utiliza mucho en aplicaciones científicas y de ciencia de datos, está diseñado para proveer un entorno de desarrollo en donde van a estar listas las dependencias típicas relacionadas en estas áreas. 
 ¿Porque anaconda?
 o	Diferentes proyectos y diferentes paquetes 
@@ -11,38 +10,38 @@ Anaconda, es una distribución de Python
 
 COMO INSTALAR ANACONDA 
 
-1. Descargar anaconda en Google 
+1. Ve al sitio web de [Anaconda](https://www.anaconda.com/download/#windows) y coloca tu correo para ingresar a la pestaña de los instaladores.
 
-![Texto alternativo](img/ana-1.png)
+![](img/ana-1.png)
 
-2. Iniciar el proceso de instalación 
+2. Elige un instalador gráfico de Python 3.x (A) o un instalador gráfico de Python 2.x (B). Si no estás seguro de qué versión de Python quieres instalar, elige Python 3. No elijas ambos. Nota: consulta el siguiente [tutorial de instalación de Anaconda en Mac OS X](https://www.datacamp.com/es/tutorial/installing-anaconda-mac-os-x) si no estás en Windows.
 
-![Texto alternativo](img/ana-2.png)
+![](img/ana-2.png)
 
-3. Luego damos clic en Windows 64 bits 
+3. Luego de elegir el instalador dar click para comenzar con la descarga.
 
-![Texto alternativo](img/ana-3.png)
+![](img/ana-3.png)
 
-4. Descargar y guardar 
+4. Localiza tu descarga y haz doble clic en ella. 
 
-![Texto alternativo](img/ana-4.png)
+![](img/ana-4.png)
 
-5. Luego abrir en la carpeta que hayas guardado o descargas y damos clic 
+5. Lee el acuerdo de licencia y pulsa Aceptar.
 
-![Texto alternativo](img/ana-5.png)
+![](img/ana-5.png)
 
 6. Luego seleccionar la opción solamente para ti (recomendado) 
 
-![Texto alternativo](img/ana-6.png)
+![](img/ana-6.png)
 
 7. Luego seleccionar la opción, crear accesos directos en el menú de inicio, registrar anaconda 3 como tu Python por defecto, borrar el cache de la instalación de los paquetes.
 
-![Texto alternativo](img/ana-7.png)
+![](img/ana-7.png)
 
 8. Para comprobar que anaconda se haya descargado correctamente, buscamos en el navegador de Windows “Anaconda” 
 
-![Texto alternativo](img/ana-8.png)
+![](img/ana-8.png)
 
 9. Finalmente, anaconda te muestra el inicio del programa con diversas aplicaciones instaladas 
 
-![Texto alternativo](img/nav-tabs1.png)
+![](img/nav-tabs1.png)

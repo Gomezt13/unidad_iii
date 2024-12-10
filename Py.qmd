@@ -10,17 +10,18 @@ Como usar Python
 
 2. Localiza el archivo instalador descargado (normalmente en tu carpeta de Descargas) y haz doble clic sobre él para ejecutar el proceso de instalación. Es posible que el Control de Cuentas de Usuario (UAC – User Account Control) te pida que permitas la instalación. Haz clic en Sí para continuar.
 
-![Texto alternativo](img/py-2.png)
+![](img/py-2.png)
 
 3. Tras seleccionar la configuración de instalación que desees, haz clic en Instalar para iniciar el proceso de instalación. El instalador copiará los archivos necesarios en tu ordenador y configurará Python. Este proceso puede tardar unos minutos.
 
-![Texto alternativo](img/py-5.png)
+![](img/py-5.png)
 
 4. 
 Una vez finalizada la instalación, puedes comprobar que Python se ha instalado
 correctamente abriendo el Símbolo del sistema (busca «cmd» en el menú Inicio).
-![Texto alternativo](img/py-3.png)
+
+![](img/py-3.png)
 
 5. Escribimos python y ejecutamos, si el programa se instaló correctamente nos debe mostrar la version de python que se instaló.
 
-![Texto alternativo](img/py-4.png)
+![](img/py-4.png)
