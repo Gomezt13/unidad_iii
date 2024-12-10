@@ -6,7 +6,7 @@ title: "Uso de Label Studio"
 
 ![Texto alternativo](img/ls-1.png)
  
-2.	En Google Chrome, buscamos la pagina de [Label Studio] (https://labelstud.io/) y seleccionamos en PIP. 
+2.	En Google Chrome, buscamos la pagina de [Label Studio](https://labelstud.io/) y seleccionamos en PIP. 
 
 ![Texto alternativo](img/ls-2.png)
 
@@ -26,7 +26,7 @@ title: "Uso de Label Studio"
  
 ![Texto alternativo](img/ls-6.png)
 
-7.	Ingresamos a Labeling setup y podemos ver los tipos de plantillas disponibles, seleccionamos la plantilla segmentación con polígonos y “save”.
+7.	Ingresamos a Labeling Setup y podemos ver los tipos de plantillas disponibles, seleccionamos la plantilla segmentación con polígonos y “save”.
 
 
 ![Texto alternativo](img/ls-7.png)

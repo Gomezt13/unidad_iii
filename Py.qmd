@@ -4,22 +4,22 @@ title: "Uso de Python"
 
 Como usar Python 
 
-1.	Descargar Python de acuerdo al sistema operativo que se necesita 
+1.	Descargar [Python](https://www.python.org/downloads/) de acuerdo al sistema operativo que se necesita 
 
 ![Texto alternativo](img/py-1.png)
 
-2.	Luego lo damos como “Ejecutar como administrador” 
+2.	Luego lo damos click derecho y “Ejecutar como administrador” 
 
 ![Texto alternativo](img/py-2.png)
 
-3.	Luego buscamos en Google de Windows el programa anaconda ya instalado
+3. Esperamos que el programa se instale.
 
 ![Texto alternativo](img/py-5.png)
 
-4. 
+4. Buscamos en la barra de navegación de Windows CMD y ejecutamos como administrador.
 
 ![Texto alternativo](img/py-3.png)
 
-5.	Luego en la ventana principal de anaconda, damos clic en SPIDER 
+5. Escribimos python y ejecutamos, si el programa se instaló correctamente nos debe mostrar la version de python que se instaló.
 
 ![Texto alternativo](img/py-4.png)
