@@ -6,7 +6,7 @@ title: "Uso de Label Studio"
 
 ![Texto alternativo](img/ls-1.png)
  
-2.	En Google Chrome, buscamos la pagina de label studio y seleccionamos en PIP. 
+2.	En Google Chrome, buscamos la pagina de [Label Studio] (https://labelstud.io/) y seleccionamos en PIP. 
 
 ![Texto alternativo](img/ls-2.png)
 
