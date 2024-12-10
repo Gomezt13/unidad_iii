@@ -47,5 +47,8 @@ title: "Uso de Label Studio"
 
 ![Texto alternativo](img/ls-11.png)
 
-Ingresaremos al link para revisar los resultados:
- https://drive.google.com/drive/folders/1glKrKO2-7a8DclYMbZN_Uq3aJtLOTuqP
+Ingresaremos al [link](https://drive.google.com/drive/folders/1glKrKO2-7a8DclYMbZN_Uq3aJtLOTuqP) para revisar los resultados:
+
+ 
+ 
+
