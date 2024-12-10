@@ -6,7 +6,7 @@ Como usar Python
 
 1. Visitar el sitio web oficial de [Python](https://www.python.org/downloads/) y descargar la última versión de Python 3.x para Windows. El sitio web detectará automáticamente tu sistema operativo y te ofrecerá el instalador adecuado para tu sistema (32 o 64 bits).
 
-[Texto alternativo](img/py-1.png)
+![](img/py-1.png)
 
 2. Localiza el archivo instalador descargado (normalmente en tu carpeta de Descargas) y haz doble clic sobre él para ejecutar el proceso de instalación. Es posible que el Control de Cuentas de Usuario (UAC – User Account Control) te pida que permitas la instalación. Haz clic en Sí para continuar.
 
