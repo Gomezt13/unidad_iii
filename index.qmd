@@ -1,5 +1,5 @@
 ---
-title: "EI Poder de la Inteligencia Artificial en la Agronomía para Simplificar la Vida"
+title: "EI Poder de la Inteligencia Artificial en la Agronomía"
 about:
   id: me
   template: broadside
@@ -15,12 +15,13 @@ about:
 3. Julca Celiz Nilson Yoel
 4. Parejas Gonsalez Jhodany
 
-## Resumen
+**Ciclo**: VIII 
 
+**Docente**: Flavio Lozano Isla, PhD (c)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Curabitur ac orci eget lectus varius vehicula. Nullam ac nisi id arcu feugiat suscipit. Proin bibendum, lorem at aliquam luctus, neque orci viverra sapien, eu tempor nunc nisi at eros.  
+**Curso**: Programación y análisis de datos. 
 
-
+**Objetivo**: Reconocer e identificar la importancia del uso del aprendizaje automático y la inteligencia artificial en la agricultura. 
 
 
 :::
