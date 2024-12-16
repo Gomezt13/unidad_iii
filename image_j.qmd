@@ -2,61 +2,62 @@
 title: "Uso de Image J"
 ---
 
-Pasos para calcular el área foliar en imagen J 
+Pasos para calcular el área de objetos y contabilizarlos en imagen J 
 
 
-1.	Descargar el programa de la página oficial de los desarrolladores 
+1.	Descargar el programa de la página oficial de [ImageJ](https://imagej.net/ij/download.html) proporcionada por los desarrolladores. 
 
-![Texto alternativo](img/Imagen1.png)
+![](img/Imagen1.png)
 
-2.	Escanear nuestras hojas e incluir las referencias 
+2.	Escanear nuestras los objetos, en este caso se tomó la foto de las semillas de maíz y se incluyó las referencias de escala.
 
-![Texto alternativo](img/H022 - copia.jpg)
+![](img/H022 - copia.jpg)
 
-3.	Abrir el programa del escritorio 
+3.	Abrir el programa del escritorio ImageJ.
 
-![Texto alternativo](img/Imagen1-3.png)
+![](img/Imagen1-3.png)
 
-4.	Abrir donde dice File (archivo) y lo damos abrir (open) 
+4.	Abrir donde dice File (archivo) y lo damos abrir (open). 
 
-![Texto alternativo](img/Imagen-4.png)
+![](img/Imagen-4.png)
 
 
-5.	Buscar la imagen donde lo tengamos guardada, la cual debe estar en formato Jpeg 
+5.	Buscar la imagen donde lo tengamos guardada, la cual debe estar en formato Jpg.
 
-![Texto alternativo](img/Imagen5.png)
+![](img/Imagen5.png)
 
-6.	Abrimos la imagen y definimos nuestra escala o referencia 
+6.	Abrimos la imagen y trazamos una línea a la medida de la referencia que se va a utilizar. 
 
-![Texto alternativo](img/Imagen6.png)
+![](img/Imagen6.png)
 
-7.	Luego le damos clic en analizar y definir escala 
+7.	Luego le damos clic en analizar y definir escala.
 
-![Texto alternativo](img/Imagen7.png)
+![](img/Imagen7.png)
 
-8.	Luego definimos la escala y la longitud 
+8.	Luego definimos la escala y la longitud.
 
-![Texto alternativo](img/Imagen10.png)
+![](img/Imagen10.png)
 
-9.	 Luego ajustamos los parámetros de imagen, los damos clic en “imagen” luego “type “y “bit”
-![Texto alternativo](img/Imagen11.png)
+9.	 Luego ajustamos los parámetros de imagen, los damos clic en “imagen” luego “ajust “y “Color Threshold”.
 
-10.	Luego damos ajustar en ajustar y “Threshold”
+![](img/Imagen11.png)
 
-![Texto alternativo](img/Imagen12.png)
+10.	Seguidamente manipulamos los controladores hasta lograr una selección solo de lo deseado y cerramos la pestaña.
 
-11.	Luego las imágenes presentan con un color especifico y un fondo blanco, como se puede observar en la foto referencial. 
+![](img/Imagen12.png)
 
-![Texto alternativo](img/Imagen13.png)
+11.	Luego vamos a la opción de "Analyze" y damos click en la opción "Analyze Particles". 
 
-12.	Luego seleccionamos analizar, Tools y ROT manager 
+![](img/Imagen13.png)
 
-![Texto alternativo](img/Imagen14.png)
+12.	Ayustamos los parametros de acuerdo a nuestro caso y le damos en "OK". 
 
-13.	Luego damos clic en la las hojas a seleccionar y también damos clic en la pestaña agregar 
+![](img/Imagen14.png)
 
-![Texto alternativo](img/Imagen16.png)
+13.	A continuación nos muestra el resultado de lo analizado mediante una tabla. 
 
-15.	Luego pegamos los datos en un archivo de Exel 
+![](img/Imagen16.png)
 
-![Texto alternativo](img/Imagen17.png)
+15.	Los resultado lo podemos pegar en un archivo de Exel para una mejor manipulación. 
+
+![](img/Imagen17.png)
