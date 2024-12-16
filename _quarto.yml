@@ -20,7 +20,7 @@ website:
         text: Label Studio
     tools:
       - icon: twitter
-        href: https://twitter.com/
+        href: https://doi.org/10.3390/rs15051463
       - icon: github
         href: https://github.com/Gomezt13/unidad_iii.git
   page-footer:
