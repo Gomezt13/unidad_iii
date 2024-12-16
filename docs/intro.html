@@ -20,7 +20,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -168,11 +188,11 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="introducción" class="level2">
 <h2 class="anchored" data-anchor-id="introducción">Introducción</h2>
-<p>La IA ha sido objeto de gran atención en los últimos años -y especialmente en 2023-, pero no es nueva y su historia se remonta al desarrollo de los ordenadores tras la Segunda Guerra Mundial, considerándose el inicio de la IA como campo de estudio diferenciado y donde se utilizó por primera vez el término “Inteligencia Artificial” (Travel &amp; Leaders, 2024). En la actualidad, no existe una definición única y universalmente aceptada de IA, sin embargo, Alan Turing definió la IA, como “un programa tal que en un mundo arbitrario no se desenvolverá peor que un humano”, lo que significa que la IA es un conjunto de programas, tiene entradas y salidas y también existe en un entorno (Restrepo &amp; Neira, 2019). Uno de los aspectos más importantes de la IA es que se trata de una tecnología multiuso, puede aplicarse de muchas maneras y en muchos escenarios diferentes (Travel &amp; Leaders, 2024). Mediante la disponibilidad de enormes cantidades de datos, algoritmos de software (algoritmos avanzados, datos y potencia de cálculo), aprendizaje automático (ML) y el aprendizaje profundo (DL). El ML se considera el subconjunto de la IA y el DL se considera el subconjunto del ML. La representación pictórica de la relación entre IA, ML y DL (Maurya et al., 2023). Algunas aplicaciones de la IA son la recuperación inteligente de bases de datos, los sistemas de consultoría de expertos, el teorema, la robótica, la programación automática y los problemas de programación, los problemas de percepción, etc. La IA también es usado en la agricultura para la gestión de los suelos, malas hierbas, mecanización, etc.</p>
+<p>La IA ha sido objeto de gran atención en los últimos años -y especialmente en 2023-, pero no es nueva y su historia se remonta al desarrollo de los ordenadores tras la Segunda Guerra Mundial, considerándose el inicio de la IA como campo de estudio diferenciado y donde se utilizó por primera vez el término “Inteligencia Artificial” (<span class="citation" data-cites="cris2024">Hernández-Salazar et al. (<a href="#ref-cris2024" role="doc-biblioref">2024</a>)</span>). En la actualidad, no existe una definición única y universalmente aceptada de IA, sin embargo, Alan Turing definió la IA, como “un programa tal que en un mundo arbitrario no se desenvolverá peor que un humano”, lo que significa que la IA es un conjunto de programas, tiene entradas y salidas y también existe en un entorno (<span class="citation" data-cites="jimenez2012manejo">Jimenez (<a href="#ref-jimenez2012manejo" role="doc-biblioref">2012</a>)</span>). Uno de los aspectos más importantes de la IA es que se trata de una tecnología multiuso, puede aplicarse de muchas maneras y en muchos escenarios diferentes (<span class="citation" data-cites="cris2024">Hernández-Salazar et al. (<a href="#ref-cris2024" role="doc-biblioref">2024</a>)</span>). Mediante la disponibilidad de enormes cantidades de datos, algoritmos de software (algoritmos avanzados, datos y potencia de cálculo), aprendizaje automático (ML) y el aprendizaje profundo (DL). El ML se considera el subconjunto de la IA y el DL se considera el subconjunto del ML. La representación pictórica de la relación entre IA, ML y DL (<span class="citation" data-cites="maurya2023">Maurya et al. (<a href="#ref-maurya2023" role="doc-biblioref">2023</a>)</span>). Algunas aplicaciones de la IA son la recuperación inteligente de bases de datos, los sistemas de consultoría de expertos, el teorema, la robótica, la programación automática y los problemas de programación, los problemas de percepción, etc. La IA también es usado en la agricultura para la gestión de los suelos, malas hierbas, mecanización, etc.</p>
 </section>
 <section id="la-agricultura-antes-de-la-inteligencia-artificial" class="level2">
 <h2 class="anchored" data-anchor-id="la-agricultura-antes-de-la-inteligencia-artificial">La agricultura antes de la inteligencia artificial</h2>
-<p>La agricultura desempeña un papel importante en el sector económico. La automatización en la agricultura es la principal preocupación y el tema emergente en todo el mundo. La población está aumentando enormemente y con este aumento también aumenta la demanda de alimentos y empleo (ANA, 2019). Los métodos tradicionales que utilizaban los agricultores no eran suficientes para satisfacer estos requisitos. Por lo tanto, se introdujeron nuevos métodos automatizados. Estos nuevos métodos satisfacían las necesidades alimentarias y también brindaban oportunidades de empleo a miles de millones de personas. La inteligencia artificial en la agricultura ha traído una revolución agrícola. Esta tecnología ha protegido el rendimiento de los cultivos de varios factores como los cambios climáticos, el crecimiento de la población, los problemas de empleo y los problemas de seguridad alimentaria (<span class="citation" data-cites="talaviya-2020">@talaviya-2020</span>).</p>
+<p>La agricultura desempeña un papel importante en el sector económico. La automatización en la agricultura es la principal preocupación y el tema emergente en todo el mundo. La población está aumentando enormemente y con este aumento también aumenta la demanda de alimentos y empleo (<span class="citation" data-cites="ana2019">ANA (<a href="#ref-ana2019" role="doc-biblioref">2019</a>)</span>). Los métodos tradicionales que utilizaban los agricultores no eran suficientes para satisfacer estos requisitos. Por lo tanto, se introdujeron nuevos métodos automatizados. Estos nuevos métodos satisfacían las necesidades alimentarias y también brindaban oportunidades de empleo a miles de millones de personas. La inteligencia artificial en la agricultura ha traído una revolución agrícola. Esta tecnología ha protegido el rendimiento de los cultivos de varios factores como los cambios climáticos, el crecimiento de la población, los problemas de empleo y los problemas de seguridad alimentaria (<span class="citation" data-cites="talaviya2020">Talaviya et al. (<a href="#ref-talaviya2020" role="doc-biblioref">2020</a>)</span>).</p>
 </section>
 <section id="programas-mas-utilizados-en-la-actualidad" class="level2">
 <h2 class="anchored" data-anchor-id="programas-mas-utilizados-en-la-actualidad">Programas mas utilizados en la actualidad</h2>
@@ -319,12 +339,29 @@ ul.task-list li input[type="checkbox"] {
 <p>Soluciones innovadoras para mejorar la eficiencia, la productividad y la sostenibilidad. Tecnologías como los sistemas de predicción climática, la agricultura de precisión y el análisis de imágenes satelitales permiten optimizar el uso de recursos como agua, fertilizantes y energía. Estas herramientas ayudan a los agricultores a tomar decisiones más informadas ya enfrentar los desafíos del cambio climático y la creciente demanda de alimentos. Sin embargo, la implementación de la IA en la agricultura no está exenta de desafíos. Entre las principales limitaciones se encuentran la falta de acceso a tecnología en áreas rurales, la dependencia de datos de alta calidad y los costos iniciales asociados con la adopción de estas tecnologías. Además, el manejo ético de los datos recopilados, como información sobre cultivos y terrenos, requiere una regulación adecuada para evitar el mal uso y garantizar la privacidad de los productores. A pesar de estos retos, la IA ofrece un enorme potencial para lograr un equilibrio entre productividad y sostenibilidad en el sector agrícola. Herramientas como los drones para monitoreo de cultivos, los algoritmos de aprendizaje automático para predecir plagas y los sistemas automatizados de riego están permitiendo un uso más eficiente de los recursos y reduciendo el impacto ambiental de las actividades agrícolas. Esto es especialmente relevante en un contexto donde la seguridad alimentaria es un desafío global. En el futuro, el éxito de la integración de la IA en la agricultura dependerá de la colaboración entre agricultores, instituciones gubernamentales y desarrolladores de tecnología. Invertir en la capacitación de los agricultores y garantizar el acceso equitativo a estas herramientas será clave para maximizar los beneficios de la IA, fomentando una agricultura más resiliente, inclusiva y sostenible.</p>
 </section>
 <section id="referencias-bibliográficas" class="level2">
-<h2 class="anchored" data-anchor-id="referencias-bibliográficas">Referencias Bibliográficas,</h2>
+
+
 
 
 </section>
 
-</main> <!-- /main -->
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">Referencias Bibliográficas,</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-ana2019" class="csl-entry" role="listitem">
+ANA. (2019). <em><span class="nocase">a Política y Estrategia Nacional de Recursos Hídricos</span></em> (1st ed., Vol. 11). Ministerio de Desarrollo Agrario y Riego. <a href="https://www.ana.gob.pe/sites/default/files/default_images/politica_y_estrategia_nacional_de_recursos_hidricos_ana.pdf">https://www.ana.gob.pe/sites/default/files/default_images/politica_y_estrategia_nacional_de_recursos_hidricos_ana.pdf</a>
+</div>
+<div id="ref-cris2024" class="csl-entry" role="listitem">
+Hernández-Salazar, C. A., González-Estrada, O. A., &amp; González-Silva, G. (2024). Integración de la inteligencia artificial y la agricultura de precisión en cultivos de café. <em>Revista UIS Ingenierías</em>, <em>23</em>. <a href="https://doi.org/10.18273/revuin.v23n4-2024012">https://doi.org/10.18273/revuin.v23n4-2024012</a>
+</div>
+<div id="ref-jimenez2012manejo" class="csl-entry" role="listitem">
+Jimenez, J. (2012). <em>Manejo fitosanitario del cultivo del pl<span>á</span>tano (medidas para la temporada invernal)</em>. Produmedios.
+</div>
+<div id="ref-maurya2023" class="csl-entry" role="listitem">
+Maurya, M., Puranik, V. G., Kumar, A. S., &amp; Subramanian, B. (2023). <em><span class="nocase">1 Introduction to artificial intelligence</span></em> (pp. 1–20). <a href="https://doi.org/10.1515/9783111323749-001">https://doi.org/10.1515/9783111323749-001</a>
+</div>
+<div id="ref-talaviya2020" class="csl-entry" role="listitem">
+Talaviya, T., Shah, D., Patel, N., Yagnik, H., &amp; Shah, M. (2020). <span class="nocase">Implementation of artificial intelligence in agriculture for optimisation of irrigation and application of pesticides and herbicides</span>. <em>Artificial Intelligence in Agriculture</em>, <em>4</em>, 58–73. <a href="https://doi.org/10.1016/j.aiia.2020.04.002">https://doi.org/10.1016/j.aiia.2020.04.002</a>
+</div>
+</div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
